@@ -1,4 +1,3 @@
-# Tokyo-Neon
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanyB0&repo=Tokyo-Neon&theme=onedark&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
 ## ITA
 Sfortunatamente GitHub non mi fa caricare tutti i file, quindi qui c'è il link ad una cartella di Drive contenente il sito
