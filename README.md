@@ -1,12 +1,6 @@
 ## ITA
-Sfortunatamente GitHub non mi fa caricare tutti i file, quindi qui c'è il link ad una cartella di Drive contenente il sito
-
-[Clicca qui per Drive](https://drive.google.com/drive/folders/1UHMEVgxtoqGGMTVlIVzB8PBJH7L35eCp?usp=sharing)
+[Clicca qui per scaricare il codice](https://github.com/DanyB0/Tokyo-Neon/releases/tag/v1.0)
 ## ENG
-Unfortunately GitHub doesn't allow me to upload all the files, so here's the link to a Drive folder containing the website
-
-[Click here for Drive](https://drive.google.com/drive/folders/1UHMEVgxtoqGGMTVlIVzB8PBJH7L35eCp?usp=sharing)
-
+[Click here to download the code](https://github.com/DanyB0/Tokyo-Neon/releases/tag/v1.0)
 ## SCREENSHOT
-
 [![Screenshot-61.png](https://i.postimg.cc/02dQ6CZ1/Screenshot-61.png)](https://postimg.cc/4myZqVrW)
